@@ -1,0 +1,6 @@
+Jinja2-3.0.3
+MarkupSafe-2.0.1 
+click-8.0.3 
+Flask-2.0.2 
+itsdangerous-2.0.1
+python-telegram-bot 13.8.1
